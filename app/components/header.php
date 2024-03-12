@@ -5,7 +5,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title><?= $title ?></title>
+        <title>BRANCH DEVELOPMENT</title>
 
         <!-- Favicons -->
         <link href="/assets/img/webchatlogo.png" rel="icon">
